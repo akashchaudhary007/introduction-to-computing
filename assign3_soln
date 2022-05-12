@@ -1,0 +1,51 @@
+Ans-1 :-
+Enter a number: 78
+Binary equivalent of 78 is 1001110
+Ans-2 :-
+Enter expression: 9-7+6*3
+9-7+6*3 = 20
+Ans-3:-
+a) (3+4)(5) =  35
+Enter an integer = 5
+b) 10.0
+Enter radius =7
+c) 615.7521601035994
+Enter angle 1 = 45
+Enter angle 2 = 30
+d) 2.9606059810452576
+Enter x coordinate of first point: 3
+Enter y coordinate of first point: 4
+Enter x coordinate of second point: 6
+Enter y coordinate of second point: 7
+e) 1.0
+Ans-4 :-
+4.(a)
+0
+1
+2
+3
+4
+4.(b)
+3
+4
+5
+6
+7
+8
+9
+4.(c)
+4
+7
+10
+4.(d)
+15
+13
+11
+9
+7
+4.(e)
+Ans-5:-
+Enter number of carbon atoms in molecule: 5
+Enter number of hydrogen atoms in molecule: 10
+Enter number of oxygen atoms in molecule: 3
+The molecular weight of the compound is 118.1311
